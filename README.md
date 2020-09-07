@@ -1,7 +1,5 @@
 # Loan-Prediction
-this raspitory is a comprehensive work on Loan-Prediction dataset, including whole data science workflow.
-Loan prediction is a classification problem, appropriate for beginner to hone their skills. 
-This dataset is part of AnalyticsVidhya contest, you can download the dataset and submission file from:
+this respiratory is a comprehensive work on the Loan-Prediction dataset, including whole data science workflow. Loan prediction is a classification problem, appropriate for beginners to hone their skills. This dataset is part of the AnalyticsVidhya contest, you can download the dataset and submission file from:
 https://datahack.analyticsvidhya.com/contest/practice-problem-loan-prediction-iii/#ProblemStatement
 
 # Problem Statement
